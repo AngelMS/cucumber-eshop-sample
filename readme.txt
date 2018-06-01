@@ -1,0 +1,1 @@
+Before run this project, you need to copy a driver of your browserin the root of the project because you need it

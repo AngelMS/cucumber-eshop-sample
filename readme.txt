@@ -1,1 +1,1 @@
-Before run this project, you need to copy a driver of your browserin the root of the project because you need it
+Before running this project, a browser driver has to be copied at the root folder
